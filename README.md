@@ -1,5 +1,4 @@
 # :sparkles: summon singletons with plink 
 
-[:dizzy: blog :dizzy:]()
-
+[:dizzy: Blog :dizzy:](https://biosigil.blogspot.com/2018/01/summoning-singletons-with-plink.html)
 
