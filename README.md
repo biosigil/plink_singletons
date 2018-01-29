@@ -1,2 +1,5 @@
-# plink_singletons
-get singletons with plink
+# :sparkles: summon singletons with plink 
+
+[:dizzy: blog :dizzy:]()
+
+
